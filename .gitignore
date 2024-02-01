@@ -1,2 +1,3 @@
-# .gitignore
-/ES6
+#dependencies
+/Script
+/frontend
